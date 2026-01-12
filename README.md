@@ -36,4 +36,3 @@ For non-technical users (quick guide):
 4. Use the navigation to browse Projects and Documents; click any item to open details.
 5. If a page says "Access denied", change your role using the role selector (top-right) or ask your administrator.
 
-If you'd like, I can also add a guided first-run tour or larger UI polish to make it even friendlier.
